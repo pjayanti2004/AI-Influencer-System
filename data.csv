@@ -1,0 +1,6 @@
+Creator_ID,Name,Platform,Primary_Niche,Secondary_Niche,Followers,Engagement_Rate_%,Avg_Views,Contact_Email,Contact_Number,City,Language,Cost_Per_Post
+CR001,Creator Alpha,Instagram,Fitness,Lifestyle,120000,3.5,40000,alpha@example.com,9999999999,Mumbai,English/Hindi,50000
+CR002,Creator Beta,YouTube,Finance,Startup,85000,4.2,50000,beta@example.com,9999999999,Delhi,Hindi,40000
+CR003,Creator Gamma,Instagram,Travel,Lifestyle,45000,2.8,20000,gamma@example.com,9999999999,Bangalore,English,20000
+CR004,Creator Delta,Twitter,Tech,AI,60000,5.1,30000,delta@example.com,9999999999,Pune,English,30000
+CR005,Creator Epsilon,YouTube,Food,Lifestyle,150000,3.9,60000,epsilon@example.com,9999999999,Mumbai,Hindi,60000
