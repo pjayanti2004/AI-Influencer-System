@@ -10,4 +10,4 @@ Features:
 AI Logic:
 Used rule-based classification for niche detection and scoring logic for recommendations.
 
-Built using Python and Streamlit.
+Built using Python and Streamlit. 
